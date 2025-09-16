@@ -1,1 +1,0 @@
-# Topicos_de_Financas_com_Python
